@@ -1,5 +1,7 @@
 # ZombieBlaster - Unity - First Year
 
+This is the first game I ever made in a public game engine, so yeah this is terrible but its here to stay XD
+
 A Small zombies project I made for one of my first term modules at The University of Huddersfield.
 I Like to keep this project online just to remind me how far I have came since I started university.
 
